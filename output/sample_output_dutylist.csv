@@ -1,0 +1,36 @@
+location,start_time,duration,rest,person
+entrance,0,4,4,Joshua Gomez
+entrance,4,4,4,Alpha
+entrance,8,4,4,Delta
+entrance,12,6,4,Charlie
+entrance,18,6,4,Alpha
+entrance,24,4,4,Bing Jie
+entrance,28,4,4,Beta
+entrance,32,4,4,Joshua Gomez
+entrance,36,6,4,Bing Jie
+entrance,42,6,4,Beta
+exit,0,4,4,Manfred
+exit,4,4,4,Beta
+exit,8,2,2,Han Boon
+exit,18,4,4,Delta
+exit,22,4,4,Joshua Gomez
+exit,26,4,4,Delta
+exit,30,4,4,Charlie
+exit,42,4,2,Joshua Gomez
+exit,46,2,2,Han Boon
+roof,0,3,3,Han Boon
+roof,3,3,3,Bing Jie
+roof,6,3,3,Charlie
+roof,9,3,3,Manfred
+roof,12,3,3,Bing Jie
+roof,15,3,3,Manfred
+roof,18,3,3,Beta
+roof,21,3,3,Han Boon
+roof,24,3,3,Manfred
+roof,27,3,3,Han Boon
+roof,30,3,3,Manfred
+roof,33,3,3,Alpha
+roof,36,3,3,Han Boon
+roof,39,3,3,Delta
+roof,42,3,3,Alpha
+roof,45,3,3,Charlie
