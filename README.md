@@ -1,5 +1,6 @@
 # 605-shift-manning
 Created by Luo Rui Russell
+
 For any bugs/suggestions email me at luorrussell@gmail.com
 
 ## Objectives:
