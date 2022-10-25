@@ -1,7 +1,7 @@
 # 605-shift-manning
 Created by Luo Rui Russell
 
-For any bugs/suggestions email me at luorrussell@gmail.com
+For any bugs/suggestions email me
 
 ## Objectives:
 1. Assigns a namelist of people to a list of dutyposts without conflict, accounting for rest time between duties
